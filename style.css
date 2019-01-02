@@ -18,4 +18,15 @@
   background-color: #495BBE;
   text-decoration: none;
 }
+
+.banner {
+  position: relative;
+  height: 500px;
+  overflow: hidden;
+}
+
+.banner img {
+  position: absolute;
+  top: -90px;
+}
 /*# sourceMappingURL=style.css.map */
